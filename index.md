@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Guozuyu/guozuyu.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Guozuyu/guozuyu.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>郭祖玉</h1>
+      <p><b>全日制本科</b></p>
+      <p><b>上海第二工业大学</b></p>
+      <p><b>软件工程</b></p>
+      <p><b>邮箱：375898816@qq.com</b></p>
+      <p><b>手机：13162531141</b></p>
+    </td>
+    <td width="25%">
+      <img src="/portrait.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td>
+      <h1>自我描述</h1>
+      <p>对前端技术有着浓厚的兴趣，在校期间自学vue + mongoodb + node.js +express,独立完成毕设前后端。</p>
+      <p>到公司后开始学习angular2，5，6，能熟练使用typescript进行前端开发，能独立封装组件，调试等。</p>
+      <p>责任心强，外向，热爱技术。</p>
+      <p>使用过阿里ui框架ng-alain做过项目。</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h1>工作经历</h1>
+      <p>2018.04-至今</p>
+      <p>
+        我任职于上海天泰网络技术有限公司研发部，负责整个公司设备端，云端web界面的开发和日常维护。
+        平时主要工作于页面的设计，用户体验的提升，api的对接等。
+      </p>
+      <p>公司web主要使用angular5，6， smartadmin ui，mongoodb进行开发。</p>
+      <p> 熟悉阿里ui框架，并做过一个项目。 </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h1>项目经历</h1>
+      <p>从刚进入公司时跟同事合作完成前端任务，到现在同事被分配到了其他岗位，目前我负责了公司所有项目的前端任务的设计，开发和维护。</p>
+      <p>具体的项目包括有：waf防火墙，云平台管理，知识库平台，API网关等</p>
+      <p>在这项目中，提升了代码和业务能力，封装了适应于特征业务场景的组件，解决了各种复杂业务的数据传输以及呈现问题。</p>
+      <p>在这之中，深刻认识到了模块化思想，规范代码的重要性。</p>
+    </td>
+  </tr>
+</table>
