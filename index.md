@@ -13,7 +13,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <h1>自我描述</h1>
       <p>•熟知 HTML5、CSS3、Restful，精通TypeScript 开发、Interface、泛型等</p>
       <p>•熟练使用Angular 进行开发、优化性能、模块封装、代码重构、Angular版本升级</p>
@@ -24,14 +24,14 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <h1>工作经历</h1>
       <p>2021.09-2024.08 沃尔玛全球采购</p>
       <p>2018.04-2021.09 上海天泰网络技术有限公司</p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <h1>项目经历</h1>
       <p style="font-weight: 700;">2023.08-2024.08 Sam's采购系统</p>
       <p>•使用Angular 8/16 独立开发、优化性能、模块封装、代码重构</p>
