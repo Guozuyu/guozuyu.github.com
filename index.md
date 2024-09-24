@@ -36,32 +36,24 @@
     <td>
       <h1>项目经历</h1>
       <p style="font-weight: 700;">2023.08-2024.08 Sam's采购系统</p>
-      <p>
-        •使用Angular 8/16 独立开发、优化性能、模块封装、代码重构
-        •Angular 8版本升级至 16
-        •页面设计、交互优化、API对接
-        •使用Websocket实现在线聊天
-        •定义前端类、枚举、泛型等
-      </p>
+      <p>•使用Angular 8/16 独立开发、优化性能、模块封装、代码重构</p>
+      <p>•Angular 8版本升级至 16</p>
+      <p>•页面设计、交互优化、API对接</p>
+      <p>•使用Websocket实现在线聊天</p>
+      <p>•定义前端类、枚举、泛型等</p>
       <p style="font-weight: 700;">2022.08-2023.08 报价检查系统</p>
-      <p>
-        •使用React + TypeScript 从0到1合作开发、优化性能、模块封装、代码重构
-        •将Excel转向电子化，导出/导入Excel
-        •页面设计、交互优化、API对接
-      </p>
+      <p>•使用React + TypeScript 从0到1合作开发、优化性能、模块封装、代码重构</p>
+      <p>•将Excel转向电子化，导出/导入Excel</p>
+      <p>•页面设计、交互优化、API对接</p>
       <p style="font-weight: 700;">2021.09-2022.08 合同追踪系统</p>
-      <p>
-        •使用Angular8 从0到1独立开发、优化性能、模块封装、代码重构
-        •页面设计、交互优化、API对接
-        •导出/导入Excel
-      </p>
+      <p>•使用Angular8 从0到1独立开发、优化性能、模块封装、代码重构</p>
+      <p>•页面设计、交互优化、API对接</p>
+      <p>•导出/导入Excel</p>
       <p style="font-weight: 700;">2018.04-2021.08 Web防火墙、工控填报系统、云端设备管理系统</p>
-      <p>
-        •使用Angular 4/8 + ng-zorro 独立开发、优化性能、模块封装、代码重构
-        •页面设计、交互优化、API对接
-        •使用Egg.js + SQLite开发、维护API
-        •使用G2、ECharts绘制图表呈现数据
-      </p>
+      <p>•使用Angular 4/8 + ng-zorro 独立开发、优化性能、模块封装、代码重构</p>
+      <p>•页面设计、交互优化、API对接</p>
+      <p>•使用Egg.js + SQLite开发、维护API</p>
+      <p>•使用G2、ECharts绘制图表呈现数据</p>
     </td>
   </tr>
 </table>
