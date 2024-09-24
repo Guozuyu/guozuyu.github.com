@@ -12,8 +12,6 @@
       <img src="/portrait.jpg" width="100%">
     </td>
   </tr>
-</table>
-<table border="0">
   <tr>
     <td>
       <h1>自我描述</h1>
